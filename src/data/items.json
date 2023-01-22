@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Banano",
+    "price": 500,
+    "imgUrl": "/imgs/banano.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Aguacate",
+    "price": 3500,
+    "imgUrl": "/imgs/aguacate.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cereza",
+    "price": 1000,
+    "imgUrl": "/imgs/cereza.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Fresa",
+    "price": 5000,
+    "imgUrl": "/imgs/fresa.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mandarina",
+    "price": 800,
+    "imgUrl": "/imgs/mandarina.jpg"
+  }
+]
